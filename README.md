@@ -4,7 +4,7 @@ Tools: Microsoft Excel
 Domain: Agricultural Data Analytics · Cooperative Management · Ghana Cocoa
 ---
 ## Project Overview
-This project analyses farmer-level cocoa delivery and yield performance for a cocoa cooperative in Ghana's Brong-Ahafo region during the 2025/26 main crop season.
+This project analyses farmer-level cocoa delivery and yield performance for a cocoa cooperative in Ghana during the 2025/26 main crop season.
 The cooperative supplies cocoa to an international premium chocolate buyer under a fixed offtake agreement. The analysis was built to help cooperative management move beyond raw delivery totals and understand which farmers and communities are performing well, which are underperforming, and what the cooperative's true production capacity looks like.
 ---
 ## Problem Statement
